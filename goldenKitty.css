@@ -1,0 +1,67 @@
+
+body {
+    background-color: rgb(14, 230, 194);
+    border: 5px solid black;
+    width: 800px;
+    height: 1100px;
+    background-color: black;
+    
+}
+
+header{
+   width: 500px;
+   height: 200px;
+   margin: auto;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   gap: 40px;
+}
+h1{
+   color: white;
+}
+img {
+    width: 149px;
+    height: 137px;
+}
+
+main{
+    width: 500px;
+    height: 350px;
+    background-color: #FFFCFC;
+    margin: 0px auto;
+    display: flex;
+    flex-direction: column; 
+    border-radius: 10px;
+      
+}
+h2{
+    margin: auto;
+    height: 100px;
+}
+
+form{
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    
+}
+.check{
+    
+}
+
+.button{
+    margin-top: 50px;
+    margin: auto;
+    display: block;
+    background-color: #D0B355;
+    border-radius: 3px solid black;
+}
+
+
+
+
